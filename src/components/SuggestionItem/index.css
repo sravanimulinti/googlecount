@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  align-items: space-around;
+}
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.img1 {
+  height: 60px;
+  width: 40px;
+}
